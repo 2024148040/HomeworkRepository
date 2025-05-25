@@ -148,8 +148,9 @@ section{    margin-top: 20px;
             border-radius: 10px;}
 .sccon{     display: flex;
             flex-direction: column;
-            margin: auto;
-            padding-top: 50px;
+            justify-content: left;
+            padding-top: 30px;
+            padding-bottom: 10px;
             width: auto;}
 .scform{    display: flex;
             flex-direction: row;
@@ -161,6 +162,7 @@ section{    margin-top: 20px;
             width: 100px;
             margin-left: 2px;}
 @media (min-width: 1000px) {
+    .sccon{width: 1000px;}
     .maincon{width: 1000px;}
 }
 @media (max-width: 800px){
@@ -170,8 +172,4 @@ section{    margin-top: 20px;
             text-align: center;}
     h2{     text-align: center;}
     section{column-count: 1;}
-    .limcon{flex-direction: column;}
-}
-@media (max-width: 480px) {
-    .imcon{ flex-direction: column;}
 }
