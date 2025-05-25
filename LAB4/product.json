@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Princess Mononoke",
+        "description": "Ashitaka, a prince of the disappearing Ainu tribe, is infected with a deadly curse. To find a cure, he travels to the forests of the west where he meets San, a young woman raised by wolves who is caught in a struggle between the forest gods and a mining colony.",
+        "image": "PrincessMononoke.webp",
+        "date": "1997-07-12",
+        "rating": "8.2"
+    },
+    {
+        "name": "Spirited Away",
+        "description": "A ten year old girl who wanders away from her parents discovers a magical world where humans are changed into beasts, gods rule over the land, and a bathhouse caters to spirits. She must find her courage to free her family and return to the real world.",
+        "image": "SpiritedAway.webp",
+        "date": "2001-07-20",
+        "rating": "8.3"
+    },
+    {
+        "name": "Grave of the Fireflies",
+        "description": "In the latter part of World War II, a boy and his sister, orphaned when their mother is killed in an air raid, struggle to survive in the Japanese countryside, battling hunger and societal indifference.",
+        "image": "GraveOfTheFireflies.webp",
+        "date": "1988-04-16",
+        "rating": "8.2"
+    },
+    {
+        "name": "My Neighbor Totoro",
+        "description": "Two sisters move to the countryside and encounter playful forest spirits, including the iconic Totoro, who introduces them to the wonders of the natural world and helps them deal with the challenges of life.",
+        "image": "MyNeighborTotoro.webp",
+        "date": "1988-04-16",
+        "rating": "8.0"
+    },
+    {
+        "name": "Castle in the Sky",
+        "description": "The orphan Sheeta inherited a mysterious crystal that links her to the mythical sky-kingdom of Laputa. With a young engineer named Pazu, she sets out to find the floating castle and uncover its secrets while being chased by pirates and military agents.",
+        "image": "CastleInTheSky.webp",
+        "date": "1986-08-02",
+        "rating": "7.8"
+    },
+    {
+        "name": "Howl's Moving Castle",
+        "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+        "image": "HowlsMovingCastle.webp",
+        "date": "2004-11-19",
+        "rating": "8.2"
+    },
+    {
+        "name": "Ponyo",
+        "description": "A goldfish named Ponyo escapes from her home in the sea and is rescued by a boy named Sosuke. As they grow closer, Ponyo wishes to become human, causing a disruption in the balance of nature.",
+        "image": "ponyo.webp",
+        "date": "2008-07-19",
+        "rating": "7.5"
+    },
+    {
+        "name": "The Wind Rises",
+        "description": "A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II, blending historical events with dreamlike moments.",
+        "image": "TheWindRises.webp",
+        "date": "2013-07-20",
+        "rating": "7.7"
+    },
+    {
+        "name": "When Marnie Was There",
+        "description": "A young girl is sent to the countryside for health reasons, where she meets a mysterious girl named Marnie who lives in a secluded mansion. Their friendship reveals deep emotional truths.",
+        "image": "WhenMarnieWasThere.webp",
+        "date": "2014-07-19",
+        "rating": "7.8"
+    },
+    {
+        "name": "The Tale of the Princess Kaguya",
+        "description": "Found inside a shining stalk of bamboo, a tiny girl grows rapidly into an exquisite young lady. Raised by a humble bamboo cutter and his wife, she enthralls all who encounter her – but ultimately she must confront her fate.",
+        "image": "TheTaleOfThePrincessKaguya.webp",
+        "date": "2013-11-23",
+        "rating": "8.0"
+    },
+    {
+        "name": "Kiki's Delivery Service",
+        "description": "A young witch named Kiki moves to a seaside town with her talking cat Jiji and uses her flying ability to earn a living delivering goods. As she struggles to find her place, she learns about independence and confidence.",
+        "image": "KikisDeliveryService.webp",
+        "date": "1989-07-29",
+        "rating": "7.6"
+    },
+    {
+        "name": "The Cat Returns",
+        "description": "After saving a cat from being hit by a truck, a young girl is whisked away to a fantastical world of talking cats who treat her like royalty, leading to a charming and surreal adventure.",
+        "image": "TheCatReturns.webp",
+        "date": "2002-07-19",
+        "rating": "7.2"
+    },
+    {
+        "name": "The Secret World of Arrietty",
+        "description": "In a secret world hidden beneath the floorboards, tiny people called Borrowers live. One of them, Arrietty, forms a friendship with a human boy, challenging the rules of her hidden existence.",
+        "image": "TheSecretWorldOfArrietty.webp",
+        "date": "2010-07-17",
+        "rating": "7.6"
+    },
+    {
+        "name": "From Up on Poppy Hill",
+        "description": "In 1960s Yokohama, a high school girl and boy work together to save their school's clubhouse from demolition while uncovering secrets about their pasts.",
+        "image": "FromUpOnPoppyHill.webp",
+        "date": "2011-07-16",
+        "rating": "7.6"
+    },
+    {
+        "name": "Only Yesterday",
+        "description": "A woman in her late 20s takes a trip to the countryside and reflects on her childhood memories, blending the past and present in a nostalgic journey of self-discovery.",
+        "image": "OnlyYesterday.webp",
+        "date": "1991-07-20",
+        "rating": "7.0"
+    },
+    {
+        "name": "Whisper of the Heart",
+        "description": "A book-loving schoolgirl begins to pursue her dream of becoming a writer when she meets a mysterious boy who shares her love of literature and inspires her creativity.",
+        "image": "WhisperOfTheHeart.webp",
+        "date": "1995-07-15",
+        "rating": "7.7"
+    },
+    {
+        "name": "The Boy and the Heron",
+        "description": "After losing his mother in the war, young Mahito moves to the countryside. There, he meets a mysterious gray heron who leads him into a fantastical world where the boundary between life and death blurs.",
+        "image": "TheBoyAndTheHeron.webp",
+        "date": "2023-07-14",
+        "rating": "7.7"
+    },
+    {
+        "name": "Ocean Waves",
+        "description": "Taku and his friend Yutaka both fall for the new transfer student Rikako, leading to emotional tension in their final year of high school. A reflective and realistic coming-of-age drama.",
+        "image": "OceanWaves.webp",
+        "date": "1993-01-01",
+        "rating": "6.3"
+    },
+    {
+        "name": "Pom Poko",
+        "description": "A group of shape-shifting raccoons wage a war against human urban development encroaching on their forest home, blending humor, mythology, and environmental themes.",
+        "image": "PomPoko.webp",
+        "date": "1994-07-16",
+        "rating": "7.2"
+    },
+    {
+        "name": "Your Name",
+        "description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+        "image": "YourName.webp",
+        "date": "2016-08-26",
+        "rating": "8.5"
+    }
+]
